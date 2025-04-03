@@ -53,7 +53,8 @@ Type: EAN-13
 - ESP32 Arduino Framework
 - PlatformIO
 
-## License
+## 📜 License
 This project is licensed under the MIT License.
 
+## 🤝 Contribute
 Contributions are welcome! Feel free to open issues or submit pull requests. 🚀
