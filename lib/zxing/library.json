@@ -1,0 +1,10 @@
+{
+  "name": "ZXing",
+  "version": "2.3.0",
+  "build": {
+    "flags": [
+      "-Icore"
+    ],
+    "srcFilter": "+<core/>"
+  }
+}

@@ -1,0 +1,2 @@
+#define ZXING_VERSION_STR "2.3.0"
+#define ZXING_READERS
